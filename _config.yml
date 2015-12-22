@@ -1,0 +1,28 @@
+name: Pillars
+favicon: null
+layout_spectrum: 0.7025895789265633
+typography_spectrum: 0.41103683528490365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8740216079168022
+  lightness: 0.8660535530652851
+  saturation: 0.4490879455115646
+  rhythmicContrast: 0.30627780104987323
+purpose: []
